@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Hey",
-    "version": "0.3",
+    "version": "0.4",
     "description": "엔트리에서 유튜브 재생기를 생성해주는 확장프로그램",
     "icons": {
       "128": "icon.png"
